@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Burger Course](https://burgercourse.com)
 
-- 🌱 I’m currently learning **HTML CSS C C++ JavaScript**
+- 🌱 I’m currently learning **JavaScript , React**
 
 - 👯 I’m looking to collaborate on **Web Development , Web Applications**
 
-- 🤝 I’m looking for help with **Learning JavaScript**
+- 🤝 I’m looking for help with **React JS**
 
 - 📫 How to reach me **imamujjamantasin1111@gmail.com**
 
