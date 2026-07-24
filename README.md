@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tasin</h1>
+<h1 align="center">Hello there 👋, I'm Tasin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Burger Course](https://burgercourse.com)
-
-- 🌱 I’m currently learning **JavaScript , React**
+- 🌱 I’m currently learning **Python & Flask**
 
 - 👯 I’m looking to collaborate on **Web Development , Web Applications**
-
-- 🤝 I’m looking for help with **React JS**
 
 - 📫 How to reach me **imamuzzaman.dev@gmail.com**
 
